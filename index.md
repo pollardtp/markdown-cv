@@ -35,7 +35,7 @@ __US Army Research Laboratory__
 `2011-2017`
 __University of Cincinnati, Ohio__
 
-- PhD
+- PhD, Chemistry
 
 `2013-2014`
 __Procter & Gamble Co., Ohio__
@@ -45,7 +45,7 @@ __Procter & Gamble Co., Ohio__
 `2007-2011`
 __Mount Saint Joseph University, Ohio__
 
-- BS
+- BS, Chemistry
 
 
 
