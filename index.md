@@ -1,9 +1,9 @@
 ---
-layout: cv
-title: Travis CV
+layout:
+title:
 ---
 # Travis P Pollard
-Computational chemist
+Computational electrochemist
 
 <div id="webaddress">
 <a href="https://scholar.google.com/citations?user=bW3xa4MAAAAJ&hl=en">google scholar</a>
@@ -25,9 +25,9 @@ Molecular modeling of interphase formation, evolution, and tailoring
 Additives and electrolytes to enable safer, high energy Li-ion batteries, Zn-ion batteries
 
 
-## Education
+## Education & Work
 
-`2017-2020`
+`2017-current`
 __US Army Research Laboratory__
 
 - Postdoc
@@ -36,6 +36,11 @@ __US Army Research Laboratory__
 __University of Cincinnati, Ohio__
 
 - PhD
+
+`2013-2014`
+__Procter & Gamble Co., Ohio__
+
+- Contractor
 
 `2007-2011`
 __Mount Saint Joseph University, Ohio__
@@ -50,10 +55,7 @@ __Mount Saint Joseph University, Ohio__
 SEDD Award for Impactful Communication, *US Army Research Laboratory*, Maryland
 
 
-
 ## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
 
 `2020`
 Fluorinated Interphase Enables Reversible Aqueous Zinc Battery Chemistries, *submitted* Nature Materials, (Co-1st authorship)
@@ -113,7 +115,10 @@ Quasichemical analysis of the cluster-pair approximation for the thermodynamics 
 ### Patents
 
 `2020`
-Listed as coinventor for two patents in processing
+*intentionally vague* An additive for Zn-ion batteries
+
+`2020`
+*intentionally vague* A process for treating Zn metal anodes
 
 
 <!-- ### Footer
