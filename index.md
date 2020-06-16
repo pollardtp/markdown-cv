@@ -1,53 +1,53 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Travis CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Travis P Pollard
+Computational chemist
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="https://scholar.google.com/citations?user=bW3xa4MAAAAJ&hl=en">google scholar</a>
+| <a href="https://github.com/pollardtp">github</a>
 </div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
+Postdoctoral fellow, Battery Science Branch, Energy and Biomaterials Division, Sensors and Electron Devices Directorate, U.S. Army Combat Capabilities Development Command Army Research Laboratory, Adelphi, MD 20783, USA
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+Molecular modeling of interphase formation, evolution, and tailoring
 
 
 ### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Additives and electrolytes to enable safer, high energy Li-ion batteries, Zn-ion batteries
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2017-2020`
+__US Army Research Laboratory__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+- Postdoc
 
-- Sizar
+`2011-2017`
+__University of Cincinnati, Ohio__
 
-`1667 - death`
-__Trinity College, Cambridge__
+- PhD
 
-- Fellow
+`2007-2011`
+__Mount Saint Joseph University, Ohio__
+
+- BS
 
 
 
 ## Awards
 
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
+`2019`
+SEDD Award for Impactful Communication, *US Army Research Laboratory*, Maryland
 
 
 
@@ -55,37 +55,67 @@ Associate, *French Academy of Science*, Paris, France
 
 <!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
 
-### Journals
+`2020`
+Fluorinated Interphase Enables Reversible Aqueous Zinc Battery Chemistries, *submitted* Nature Materials, (Co-1st authorship)
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
+`2020`
+Realizing High Zinc Reversibility in Rechargeable Batteries, *accepted* Nature Energy, (Co-authorship)
 
-`1669`
-Lectiones opticæ.
+`2020`
+Methyl-group functionalization of pyrazole-based additives for advanced lithium ion battery electrolytes, Journal of Power Sources, (Co-authorship)
 
-etc. etc. etc.
+`2020`
+Electrolyte design for Li metal-free Li batteries, Materials Today, (Co-authorship)
+
+`2020`
+Critical Factors Dictating Reversibility of the Zinc Metal Anode, Energy & Environmental Materials, (Co-authorship)
+
+`2020`
+A 63 m Superconcentrated Aqueous Electrolyte for High-Energy Li-Ion Batteries, ACS Energy Letters, (Co-authorship)
+
+`2020`
+Nonflammable Lithium Metal Full Cells with Ultra-high Energy Density Based on Coordinated Carbonate Electrolytes, iScience (featured on cover), (Co-authorship)
+
+`2020`
+Altering the Electrochemical Pathway of Sulfur Chemistry with Oxygen for High Energy Density and Low Shuttling in a Na/S Battery, ACS Energy Letters, (Co-authorship)
+
+`2019`
+A Pyrazine‐Based Polymer for Fast‐Charge Batteries, Angewandte Chemie, (Co-authorship)
+
+`2019`
+Aqueous Li-ion battery enabled by halogen conversion–intercalation chemistry in graphite, Nature (has correction), (Co-authorship)
+
+`2019`
+Fading Mechanisms and Voltage Hysteresis in FeF2–NiF2 Solid Solution Cathodes for Lithium and Lithium‐Ion Batteries, Small, (Co-authorship)
+
+`2019`
+Bisalt ether electrolytes: a pathway towards lithium metal batteries with Ni-rich cathodes, Energy & Environmental Science, (Co-1st authorship)
+
+`2018`
+Re-examining the tetraphenyl-arsonium/tetraphenyl-borate (TATB) hypothesis for single-ion solvation free energies, Journal of Chemical Physics, (1st authorship)
+
+`2018`
+Layered LiTiO2 for the protection of Li2S cathodes against dissolution: mechanisms of the remarkable performance boost, Energy & Environmental Science, (Co-authorship)
+
+`2017`
+Structure and polarization near the Li+ ion in ethylene and propylene carbonates, Journal of Chemical Physics, (1st authorship)
+
+`2016`
+Toward a quantitative theory of Hofmeister phenomena: From quantum effects to thermodynamics, Current Opinion in Colloid & Interface Science, (1st authorship)
+
+`2014`
+The thermodynamics of proton hydration and the electrochemical surface potential of water, Journal of Chemical Physics, (1st authorship)
+
+`2014`
+Quasichemical analysis of the cluster-pair approximation for the thermodynamics of proton hydration, Journal of Chemical Physics (1st authorship)
+
 
 ### Patents
 
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
+`2020`
+Listed as coinventor for two patents in processing
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
-
-
+Last updated: June 2020 -->
