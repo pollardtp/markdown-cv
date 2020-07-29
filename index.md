@@ -19,11 +19,9 @@ Postdoctoral fellow, Battery Science Branch, Energy and Biomaterials Division, S
 
 Molecular modeling of interphase formation, evolution, and tailoring
 
-
 ### Research interests
 
 Additives and electrolytes to enable safer, high energy Li-ion batteries, Zn-ion batteries
-
 
 ## Education & Work
 
@@ -47,15 +45,15 @@ __Mount Saint Joseph University, Ohio__
 
 - BS, Chemistry
 
-
-
 ## Awards
 
 `2019`
 SEDD Award for Impactful Communication, *US Army Research Laboratory*, Maryland
 
-
 ## Publications
+
+`2020`
+High-Entropy Electrolyte Enabled All-Temperature Rechargeable Batteries, Nature, *submitted*.
 
 `2020`
 Fluorinated Interphase Enables Reversible Aqueous Zinc Battery Chemistries, Nature Materials, *submitted*.
@@ -111,7 +109,6 @@ The thermodynamics of proton hydration and the electrochemical surface potential
 `2014`
 Quasichemical analysis of the cluster-pair approximation for the thermodynamics of proton hydration, Journal of Chemical Physics, doi.org/10.1063/1.4881602.
 
-
 ### Patents
 
 `2020`
@@ -123,4 +120,4 @@ Quasichemical analysis of the cluster-pair approximation for the thermodynamics 
 
 <!-- ### Footer
 
-Last updated: June 2020 -->
+Last updated: July 2020 -->
