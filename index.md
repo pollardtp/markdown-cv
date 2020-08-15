@@ -109,6 +109,11 @@ The thermodynamics of proton hydration and the electrochemical surface potential
 `2014`
 Quasichemical analysis of the cluster-pair approximation for the thermodynamics of proton hydration, Journal of Chemical Physics, doi.org/10.1063/1.4881602.
 
+## Presentations (as a PhD)
+
+`2019`
+Molecular modeling insight into electrochemistry of battery electrolytes at bare and passivated electrodes, ACS National Spring Meeting, Orlando, FL
+
 ### Patents
 
 `2020`
