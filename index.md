@@ -1,5 +1,5 @@
 ---
-layout: davewhipp
+layout: 
 title:
 ---
 # Travis P Pollard
@@ -17,11 +17,11 @@ Postdoctoral fellow, Battery Science Branch, Energy and Biomaterials Division, S
 
 ### Specialized in
 
-Molecular modeling of interphase formation, evolution, and tailoring
+Molecular modeling of interphase formation, evolution, and tailoring; density functional theory, classical polarizable potentials
 
 ### Research interests
 
-Additives and electrolytes to enable safer, high energy Li-ion batteries, Zn-ion batteries
+Additives and electrolytes to enable safer, high energy Li-ion batteries, Zn-ion batteries, machine learning applied to molecular dynamics potentials
 
 ## Education & Work
 
@@ -59,7 +59,7 @@ High-Entropy Electrolyte Enabled All-Temperature Rechargeable Batteries, Nature,
 Fluorinated Interphase Enables Reversible Aqueous Zinc Battery Chemistries, Nature Materials, *submitted*.
 
 `2020`
-Realizing High Zinc Reversibility in Rechargeable Batteries, Nature Energy, *accepted*.
+Realizing High Zinc Reversibility in Rechargeable Batteries, Nature Energy, doi.org/10.1038/s41560-020-0674-x
 
 `2020`
 Methyl-group functionalization of pyrazole-based additives for advanced lithium ion battery electrolytes, Journal of Power Sources, doi.org/10.1016/j.jpowsour.2020.228159.
@@ -120,4 +120,4 @@ Quasichemical analysis of the cluster-pair approximation for the thermodynamics 
 
 <!-- ### Footer
 
-Last updated: July 2020 -->
+Last updated: August 2020 -->
