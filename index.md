@@ -65,7 +65,7 @@ Methyl-group functionalization of pyrazole-based additives for advanced lithium 
 Electrolyte design for Li metal-free Li batteries, Materials Today, doi.org/10.1016/j.mattod.2020.04.004.
 
 `2020`
-Critical Factors Dictating Reversibility of the Zinc Metal Anode, Energy & Environmental Materials, doi.org/10.1002/eem2.12077.
+(On cover) Critical Factors Dictating Reversibility of the Zinc Metal Anode, Energy & Environmental Materials, doi.org/10.1002/eem2.12077.
 
 `2020`
 A 63 m Superconcentrated Aqueous Electrolyte for High-Energy Li-Ion Batteries, ACS Energy Letters, doi.org/10.1021/acsenergylett.0c00348.
