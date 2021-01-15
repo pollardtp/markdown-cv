@@ -13,7 +13,7 @@ Computational electrochemist
 
 ## Currently
 
-Postdoctoral fellow, Battery Science Branch, Energy and Biomaterials Division, Sensors and Electron Devices Directorate, U.S. Army Combat Capabilities Development Command Army Research Laboratory, Adelphi, MD 20783, USA
+Chemist, Electrolyte & Interface Science Team, Battery Science Branch, Energy Sciences Division, Sensors and Electron Devices Directorate, U.S. Army Combat Capabilities Development Command Army Research Laboratory, Adelphi, MD 20783, USA
 
 ### Specialized in
 
@@ -21,11 +21,15 @@ Molecular modeling of interphase formation, evolution, and tailoring; density fu
 
 ### Research interests
 
-Additives and electrolytes to enable safer, high energy Li-ion batteries, Zn-ion batteries, machine learning applied to molecular dynamics potentials
+Additives and electrolytes to enable safer, high energy Li-ion batteries, Zn-ion batteries, machine learning
 
 ## Education & Work
+`2020-present`
+__US Army Research Laboratory__
 
-`2017-current`
+- Chemist
+
+`2017-2020`
 __US Army Research Laboratory__
 
 - Postdoc
@@ -51,13 +55,6 @@ __Mount Saint Joseph University, Ohio__
 SEDD Award for Impactful Communication, *US Army Research Laboratory*, Maryland
 
 ## Publications
-
-`2020`
-High-Entropy Electrolyte Enabled All-Temperature Rechargeable Batteries, Nature, *submitted*.
-
-`2020`
-Fluorinated Interphase Enables Reversible Aqueous Zinc Battery Chemistries, Nature Materials, *submitted*.
-
 `2020`
 Realizing High Zinc Reversibility in Rechargeable Batteries, Nature Energy, doi.org/10.1038/s41560-020-0674-x
 
@@ -114,15 +111,6 @@ Quasichemical analysis of the cluster-pair approximation for the thermodynamics 
 `2019`
 Molecular modeling insight into electrochemistry of battery electrolytes at bare and passivated electrodes, ACS National Spring Meeting, Orlando, FL
 
-### Patents
-
-`2020`
-*intentionally vague* An additive for Zn-ion batteries
-
-`2020`
-*intentionally vague* A process for treating Zn metal anodes
-
-
 <!-- ### Footer
 
-Last updated: August 2020 -->
+Last updated: January 2021 -->
