@@ -56,7 +56,7 @@ SEDD Award for Impactful Communication, *US Army Research Laboratory*, Maryland
 
 ## Publications
 `2021`
-Functionalized Phosphonium Cations Enable Zn Metal Reversibility in Aqueous Electrolytes, Angewandte Chemie, https://doi.org/10.1002/anie.202017020
+Functionalized Phosphonium Cations Enable Zn Metal Reversibility in Aqueous Electrolytes, Angewandte Chemie, doi.org/10.1002/anie.202017020
 
 `2020`
 Realizing High Zinc Reversibility in Rechargeable Batteries, Nature Energy, doi.org/10.1038/s41560-020-0674-x
