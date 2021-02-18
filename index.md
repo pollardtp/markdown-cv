@@ -11,17 +11,13 @@ Computational electrochemist
 </div>
 
 
-## Currently
+## Current Position
 
 Chemist, Electrolyte & Interface Science Team, Battery Science Branch, Energy Sciences Division, Sensors and Electron Devices Directorate, U.S. Army Combat Capabilities Development Command Army Research Laboratory, Adelphi, MD 20783, USA
 
-### Specialized in
+### Specialization & Interests
 
 Molecular modeling of interphase formation, evolution, and tailoring; density functional theory, development of interatomic potentials
-
-### Research interests
-
-Additives and electrolytes to enable safer, high energy Li-ion batteries, Zn-ion batteries & machine learning
 
 ## Education & Work
 `2020-present`
