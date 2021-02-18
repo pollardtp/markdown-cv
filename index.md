@@ -17,11 +17,11 @@ Chemist, Electrolyte & Interface Science Team, Battery Science Branch, Energy Sc
 
 ### Specialized in
 
-Molecular modeling of interphase formation, evolution, and tailoring; density functional theory, classical polarizable potentials
+Molecular modeling of interphase formation, evolution, and tailoring; density functional theory, development of interatomic potentials
 
 ### Research interests
 
-Additives and electrolytes to enable safer, high energy Li-ion batteries, Zn-ion batteries, machine learning
+Additives and electrolytes to enable safer, high energy Li-ion batteries, Zn-ion batteries & machine learning
 
 ## Education & Work
 `2020-present`
@@ -55,6 +55,9 @@ __Mount Saint Joseph University, Ohio__
 SEDD Award for Impactful Communication, *US Army Research Laboratory*, Maryland
 
 ## Publications
+`2021`
+Functionalized Phosphonium Cations Enable Zn Metal Reversibility in Aqueous Electrolytes, Angewandte Chemie, https://doi.org/10.1002/anie.202017020
+
 `2020`
 Realizing High Zinc Reversibility in Rechargeable Batteries, Nature Energy, doi.org/10.1038/s41560-020-0674-x
 
