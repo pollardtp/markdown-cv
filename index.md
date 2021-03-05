@@ -52,6 +52,9 @@ SEDD Award for Impactful Communication, *US Army Research Laboratory*, Maryland
 
 ## Publications
 `2021`
+Fluorinated Interphase Enables Reversible Aqueous Zinc Battery Chemistries, Nature Nanotechnology (accepted).
+
+`2021`
 Functionalized Phosphonium Cations Enable Zn Metal Reversibility in Aqueous Electrolytes, Angewandte Chemie, doi.org/10.1002/anie.202017020.
 
 `2020`
@@ -112,4 +115,4 @@ Molecular modeling insight into electrochemistry of battery electrolytes at bare
 
 <!-- ### Footer
 
-Last updated: January 2021 -->
+Last updated: March 2021 -->
