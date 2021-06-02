@@ -51,66 +51,66 @@ __Mount Saint Joseph University, Ohio__
 SEDD Award for Impactful Communication, *US Army Research Laboratory*, Maryland
 
 ## Publications
-`2021`
+`2021-019`
 Fluorinated Interphase Enables Reversible Aqueous Zinc Battery Chemistries, Nature Nanotechnology, doi.org/10.1038/s41565-021-00905-4.
 
-`2021`
+`2021-018`
 Functionalized Phosphonium Cations Enable Zn Metal Reversibility in Aqueous Electrolytes, Angewandte Chemie, doi.org/10.1002/anie.202017020.
 
-`2020`
+`2020-017`
 Realizing High Zinc Reversibility in Rechargeable Batteries, Nature Energy, doi.org/10.1038/s41560-020-0674-x.
 
-`2020`
+`2020-016`
 Methyl-group functionalization of pyrazole-based additives for advanced lithium ion battery electrolytes, Journal of Power Sources, doi.org/10.1016/j.jpowsour.2020.228159.
 
-`2020`
+`2020-015`
 Electrolyte design for Li metal-free Li batteries, Materials Today, doi.org/10.1016/j.mattod.2020.04.004.
 
-`2020`
+`2020-014`
 (On cover) Critical Factors Dictating Reversibility of the Zinc Metal Anode, Energy & Environmental Materials, doi.org/10.1002/eem2.12077.
 
-`2020`
+`2020-013`
 A 63 m Superconcentrated Aqueous Electrolyte for High-Energy Li-Ion Batteries, ACS Energy Letters, doi.org/10.1021/acsenergylett.0c00348.
 
-`2020`
+`2020-012`
 (On cover) Nonflammable Lithium Metal Full Cells with Ultra-high Energy Density Based on Coordinated Carbonate Electrolytes, iScience, doi.org/10.1016/j.isci.2020.100844.
 
-`2020`
+`2020-011`
 Altering the Electrochemical Pathway of Sulfur Chemistry with Oxygen for High Energy Density and Low Shuttling in a Na/S Battery, ACS Energy Letters, doi.org/10.1021/acsenergylett.9b02746.
 
-`2019`
+`2019-010`
 A Pyrazine‐Based Polymer for Fast‐Charge Batteries, Angewandte Chemie, doi.org/10.1002/anie.201910916.
 
-`2019`
+`2019-009`
 Aqueous Li-ion battery enabled by halogen conversion–intercalation chemistry in graphite, Nature, doi.org/10.1038/s41586-019-1175-6.
 
-`2019`
+`2019-008`
 Fading Mechanisms and Voltage Hysteresis in FeF<sub>2</sub>–NiF<sub>2</sub> Solid Solution Cathodes for Lithium and Lithium‐Ion Batteries, Small, doi.org/10.1002/smll.201804670.
 
-`2019`
+`2019-007`
 Bisalt ether electrolytes: a pathway towards lithium metal batteries with Ni-rich cathodes, Energy & Environmental Science, doi.org/10.1039/C8EE02601G.
 
-`2018`
+`2018-006`
 Re-examining the tetraphenyl-arsonium/tetraphenyl-borate (TATB) hypothesis for single-ion solvation free energies, Journal of Chemical Physics, doi.org/10.1063/1.5024209.
 
-`2018`
+`2018-005`
 Layered LiTiO<sub>2</sub> for the protection of Li<sub>2</sub>S cathodes against dissolution: mechanisms of the remarkable performance boost, Energy & Environmental Science, doi.org/10.1039/C8EE00419F.
 
-`2017`
+`2017-004`
 Structure and polarization near the Li<sup>+</sup> ion in ethylene and propylene carbonates, Journal of Chemical Physics, doi.org/10.1063/1.4992788.
 
-`2016`
+`2016-003`
 Toward a quantitative theory of Hofmeister phenomena: From quantum effects to thermodynamics, Current Opinion in Colloid & Interface Science, doi.org/10.1016/j.cocis.2016.06.015.
 
-`2014`
+`2014-002`
 The thermodynamics of proton hydration and the electrochemical surface potential of water, Journal of Chemical Physics, doi.org/10.1063/1.4896217.
 
-`2014`
+`2014-001`
 Quasichemical analysis of the cluster-pair approximation for the thermodynamics of proton hydration, Journal of Chemical Physics, doi.org/10.1063/1.4881602.
 
 ## Presentations (as a PhD)
 
-`2019`
+`2019-001`
 Molecular modeling insight into electrochemistry of battery electrolytes at bare and passivated electrodes, ACS National Spring Meeting, Orlando, FL
 
 <!-- ### Footer
